@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../profile"
+		},
+		{
+			"path": "../telugu voice assistant"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "telugu voice assistant"
+	}
+}
